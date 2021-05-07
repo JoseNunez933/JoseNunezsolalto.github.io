@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>fast and delicious</title>
+    <style>
+        table,td {
+            border:1px solid black;
+
+
+        }
+
+        /*header style */
+        .header{
+            width: 100%;
+            background-color:purple;
+            height: 400px;
+            text-align: center;
+            font-family: "permanet market," cursive;
+            color:white;
+            margin-top: -125px ;
+
+        }
+
+        .header > h1 {
+            font-size: 160px; 
+            padding-top: 80px;
+        }
+        .main{
+            width: 900px;
+            margin:auto; 
+        }
+        table{
+            width: 100x; 
+        }
+        th {
+
+            font-family: "monoton",curisve;
+            font-size: 60px;
+
+        }
+        .section{
+            text-align: center;
+            font-family: "permanet marker",cursive;
+            font-size: 1.8em;
+        }
+        .item{
+            font-family: verdana,geneva, tahoma, sans-serif;
+            font-size: 1.4em;
+            height: 60px ;
+        }
+       <table>
+           <thead>
+               <th colspan="2">Menu</th>
+               <th>Menu </th>
+           </thead>
+       
+<tbody>
+    <tr class="section">
+        <td colspan="2">Entress</td>
+    </tr>
+
+   <tr class= "items ">
+      <td>nachos</td> 
+      <td>50Q</td>
+       
+   </tr> 
+   <tr class="items">
+       <td>tacos</td>
+       <td>45Q</td>
+
+
+   </tr>
+
+   <tr class="section">
+    <td colspan="2">Lunch</td>
+</tr>
+
+<tr class= "items ">
+  <td>burger </td> 
+  <td>50Q</td>
+   
+</tr> 
+<tr class="items">
+   <td>Sandwich</td>
+   <td>45Q</td>
+
+
+</tr>
+
+<tr class="section">
+    <td colspan="2">sides</td>
+</tr>
+
+<tr class= "items ">
+  <td>fires</td> 
+  <td>50Q</td>
+   
+</tr> 
+<tr class="items">
+   <td>sald </td>
+   <td>45Q</td>
+
+
+</tr>
+
+<tr class="section">
+    <td colspan="2">beverages</td>
+</tr>
+
+<tr class= "items ">
+  <td>soda</td> 
+  <td>50Q</td>
+   
+</tr> 
+<tr class="items">
+   <td>water</td>
+   <td>45Q</td>
+
+
+</tr>
+
+
+    
+
+</body>
+</html>
